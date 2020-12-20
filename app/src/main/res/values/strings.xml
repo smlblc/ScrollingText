@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">ALEXIS CARREL</string>
+    <string name="article_subtitle">THE UNKNOWN MAN</string>
+    <string name="article_text">The contributions and great advances accomplished by the dedicated work\n
+        and extraordinary genius of <b>Alexis Carrel</b> (1873–1944) made possible the establishment of a new discipline,\n
+        now considered to be transplantation. His pioneering Nobel Prize winning vessel suturing work (1912) plowed\n
+        the way for an enhanced participation of surgical leaders in the demonstration of the feasibility of his newly\n
+        introduced techniques. Even though most of the scientific disciplines associated with transplantation were in their\n
+        infancy, the possibility of offering a means to realize the surgical face of transplantation presented an optimistic\n
+        and new horizon for the developing field.\n
+        \n
+        Carrel remains an unknown man to the scientific and nonacademic readers of his life. In addition to his professional\n
+        and well‐advanced scientific works, he was a mystical individual. He profoundly studied the human being, and through\n
+        these studies he revealed himself. As one starts to unfold his complex personality through all his nonmedical writings,\n
+        one begins to encounter the meticulous man, the impatient individual, the religious believer, the truth seeker and,\n
+        paradoxically, the acceptor of clairvoyance and the supernatural. His popular and <i>the best‐selling</i> book of his times,\n
+        <b>Man The Unknown</b> (1935), defined Carrels philosophical principles of life and confirmed his intense interest in\n
+        discovering man and the most important part of him, the unknown element. For <i>Carrel</i>, man was as complex as he believed\n
+        himself to be: the unknown man.\n
+        \n
+        Scientists did not take Carrels philosophical incursions kindly. They did not accept his views and criticized him in\n
+        all his nonscientific developments. Carrel nevertheless characteristically disregarded his critics and charged himself\n
+        to search for new concepts and forthcoming ideas. He maintained this resilience through all his existence and his work\n
+        defines the Carrel as the complex man he was, as the spiritual student he attempted to be, and as the philosopher of the\n
+        human race he so desired to be in his writings.\n
+        https://onlinelibrary.wiley.com/doi/abs/10.1034/j.1399-0039.2002.00008.x </string>
+    <string name="todo">TODO</string>
+    <string name="add_comment">Add Comment</string>
+</resources>
